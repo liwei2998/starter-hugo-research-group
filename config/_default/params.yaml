@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: mr robot
+theme: coffee
 day_night: false
-font: rose
+font: classic
 font_size: L
 
 # SEO
@@ -30,8 +30,8 @@ address:
   country: Singapore
   country_code: SG
 #coordinates:
-  #latitude: '37.4275'
-  #longitude: '-122.1697'
+  #latitude: '1.3521'
+  #longitude: '103.8189'
 directions: N1.3
 office_hours:
   - 'Monday-Friday 9:30 to 18:00'
