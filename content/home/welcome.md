@@ -7,7 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-        Fang  
+  Fang  
   Research Group
 hero_media: welcome.jpg
 design:
@@ -19,5 +19,4 @@ design:
 ---
 
 <br>
-
 Describe our lab here.
