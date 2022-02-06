@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: coffee
+theme: forest
 day_night: false
-font: native
+font: rose
 font_size: L
 
 # SEO
