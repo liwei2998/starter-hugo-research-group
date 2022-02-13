@@ -27,15 +27,18 @@ organizations:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    - course: Visiting student in Chemical and Biomedical Engineering
+      institution: Nanyang Technology University
+      year: 2021-
+    - course: PhD in Material Science and Technology
+      institution: Harbin Institute of Technology              
+      year: 2015-
+    - course: Master in Chemical
+      institution: Yanzhou University
+      year: 2015
+    - course: BSc in medicine    
+      institution: Tianjin University of Traditional Chinese Medicine
+      year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
