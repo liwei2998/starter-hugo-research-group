@@ -1,9 +1,13 @@
 ---
 # Display name
-title: Liwei QING
+title: Gan WANG
+
+# Username (this should match the folder name)
+authors:
+- Gan WANG
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD student
@@ -14,33 +18,30 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include somatosensory robot hand, smart structures and materials in biomedical engineering.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Somantosensory robot hand
-- Biomedical engineering
+<!-- interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval -->
 
 education:
-  courses:
   - course: PhD in Chemical and Biomedical Engineering
     institution: Nanyang Technology University
     year: 2021-
-  - course: MPhil in Mechanical Engineering
-    institution: Hong Kong University of Science and Technology
-    year: 2019-2021
-  - course: BEng in Engineering Mechanics
-    institution: Xi'an Jiaotong University
-    year: 2015-2019
+  - course: BSc in Materials Chemistry
+    institution: Peking University
+    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+<!-- social:
 - icon: envelope
   icon_pack: fas
-  link: 'LIWEI001@e.ntu.edu.sg'
-<!-- - icon: twitter
+  link: 'mailto:test@example.org'
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
@@ -56,10 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "LIWEI001@e.ntu.edu.sg"
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,6 +65,6 @@ user_groups:
 - Graduate Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
