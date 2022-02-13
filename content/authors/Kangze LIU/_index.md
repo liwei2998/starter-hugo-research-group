@@ -26,6 +26,7 @@ organizations:
 - Information Retrieval -->
 
 education:
+  courses:
   - course: PostDoc in Chemical and Biomedical Engineering
     institution: Nanyang Technology University
     year: 2021-
