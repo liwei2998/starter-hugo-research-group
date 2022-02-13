@@ -17,21 +17,20 @@ organizations:
 bio: My research interests include somatosensory robot hand, smart structures and materials in biomedical engineering.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Somantosensory robot hand
+- Biomedical engineering
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Chemical and Biomedical Engineering
+    institution: Nanyang Technology University
+    year: 2021-
+  - course: MPhil in Mechanical Engineering
+    institution: Hong Kong University of Science and Technology
+    year: 2019-2021
+  - course: BEng in Engineering Mechanics
+    institution: Xi'an Jiaotong University
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
