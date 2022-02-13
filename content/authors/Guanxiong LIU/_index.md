@@ -32,10 +32,10 @@ education:
       year: 2021-
     - course: PhD in Material Science and Technology
       institution: Harbin Institute of Technology              
-      year: 2015-
+      year: 2018-
     - course: Master in Chemical
       institution: Yanzhou University
-      year: 2015
+      year: 2015-2018
     - course: BSc in medicine    
       institution: Tianjin University of Traditional Chinese Medicine
       year: 2011-2015
