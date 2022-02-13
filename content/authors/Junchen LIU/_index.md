@@ -27,6 +27,12 @@ organizations:
 
 education:
   courses:
+  - course: Visiting student in Chemical and Biomedical Engineering
+    institution: Nanyang Technology University
+    year: 2021-
+  - course: PhD in Electronic Science and Technology
+    institution: Beijing University of Posts and Telecommunication
+    year: 2017-
   - course: BSc in Applied Physics
     institution: Beijing University of Posts and Telecommunication
     year: 2013-2017
