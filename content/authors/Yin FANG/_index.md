@@ -40,7 +40,7 @@ education:
 <!-- social:
 - icon: envelope
   icon_pack: fas
-  link: 'LIWEI001@e.ntu.edu.sg'
+  link: 'mailto:test@example.org'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -57,7 +57,7 @@ education:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-<!-- email: "LIWEI001@e.ntu.edu.sg" -->
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
