@@ -7,8 +7,14 @@ title: Research Projects Gallery
 #   3 = Card
 view: 2
 
+profile: false
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
 ---
+
+
+# content
+Our lab focuses on....
