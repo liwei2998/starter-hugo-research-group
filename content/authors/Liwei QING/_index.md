@@ -18,7 +18,8 @@ bio: My research interests include somatosensory robot hand, smart structures an
 
 interests:
 - Somantosensory robot hand
-- Biomedical engineering
+- Medical robotics
+- Smart structures
 
 education:
   courses:
@@ -36,11 +37,11 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-<!-- social:
+social:
 - icon: envelope
   icon_pack: fas
   link: 'LIWEI001@e.ntu.edu.sg'
-- icon: twitter
+<!-- - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
@@ -67,6 +68,6 @@ user_groups:
 - Graduate Students
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
