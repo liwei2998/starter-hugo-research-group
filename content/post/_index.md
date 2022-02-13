@@ -16,5 +16,5 @@ header:
 ---
 
 
-# content
-Our lab focuses on....
+<!--more-->
+Our lab focuses on.... (briefly introduce our research)
